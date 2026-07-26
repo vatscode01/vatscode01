@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatscode01" alt="vatscode01" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatscode01" alt="vatscode01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/ayushvats469926" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ayushvats469926?logo=twitter&style=for-the-badge" alt="https://x.com/ayushvats469926" /></a> </p> -->
 
 - 🔭 I’m currently working on [End to End ETL Pipeline](https://github.com/vatscode01/sales-analytics-etl-ml)
 
+- 📫 How to reach me **ayushvats952@gmail.com**
+
+- ⚡ Fun fact **Sometimes I feel like Zuckerberg from "The Social Network"**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/ayushvats469926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ayushvats469926" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushvats952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushvats952" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/coder_ayush001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coder_ayush001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vatscode01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatscode01" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayushvats952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushvats952" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
