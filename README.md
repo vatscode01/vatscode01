@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
     </td>
     <td align="center">
       <h1>👋 Hi, I'm Ayush</h1>
@@ -17,7 +17,7 @@
       <p>Python • Flask • SQL</p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
     </td>
   </tr>
 </table>
