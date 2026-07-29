@@ -2,6 +2,38 @@
 <h3 align="center">A passionate developer from India</h3>
 <h3 align="center">Looking for an SDE Job</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Initializing...;%3E+Developer;%3E+Flask+%7C+Automation;%3E+REST+APIs;%3E+Always+Shipping+Code" alt="Typing SVG" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+    </td>
+    <td align="center">
+      <h1>👋 Hi, I'm Ayush</h1>
+      <h3>Software Engineer</h3>
+      <p>Python • Flask • SQL</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="right">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
+</p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="900">
+</p> -->
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatscode01" alt="vatscode01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/ayushvats469926" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ayushvats469926?logo=twitter&style=for-the-badge" alt="https://x.com/ayushvats469926" /></a> </p> -->
