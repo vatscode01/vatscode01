@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ayush 👋</h1>
 <h2 align="center">Ykw</h2>
-<h3 align="center">I can build anything. Literally :)</h3>
+<h3 align="center">I can build literally anything :)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Initializing...;%3E+Developer;%3E+Flask+%7C+Automation;%3E+REST+APIs;%3E+Always+Shipping+Code" alt="Typing SVG" />
